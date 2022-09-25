@@ -11,4 +11,6 @@ Premiered at Sounds of Te Kōkī May 2022, created in Max/MSP.
 ## Uncommon Orbit
 Uncommon Orbit is an interactive audio-visual composition that combines Brian Eno-style ambient "tape" loops and glitch-type asthetics, working with musical structures like flowing vs rhythmic/pulsed and continuious vs random. Built with p5.js.
 
+Click to begin, hold mouse button to change modes, mouse position changes parameters.
+
 <iframe width="600" height="642" src="https://editor.p5js.org/crispinha/full/S9HbZo_mW"></iframe>
