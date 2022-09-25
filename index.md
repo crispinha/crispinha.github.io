@@ -1,3 +1,9 @@
-# Crispin Hitchings-Anstice.
-
 I'm interested in using technological methods to create and facilitate artistic works. At the moment I'm mostly working on interactive musical programs that use techniques and algorithms from graphics programming to drive the musical or visual elements. I'm currently studying towards a Batchelor of Science in Computer Graphics and a Batchelor of Music in Sonic Arts and Music Technolgy at Victoria University of Wellington, which allows me to study and combine  creative and technical practice.
+
+## ECOSYSTEM
+ECOSYSTEM is a generative ambient piece built around a visual environment of simulated entities. Each entity, mimicking a fish or a bird, moves with the entities around it, creating flocks and swarms. The overall movement and energy of the environment controls the movement of the synthesis, creating a flowing soundscape connected with the visual elements.
+
+The entites are controlled by the Boids algorithm, and ECOSYSTEM was an opportunity to use techniques from computer graphics in sonic arts.
+
+Premiered at Sounds of Te Kōkī May 2022, created in Max/MSP.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NmFEE5SzCkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
