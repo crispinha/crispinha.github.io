@@ -5,8 +5,8 @@ ECOSYSTEM is a generative ambient piece built around a visual environment of sim
 
 The entites are controlled by the Boids algorithm, and ECOSYSTEM was an opportunity to use techniques from computer graphics in sonic arts.
 
-Premiered at Sounds of Te Kōkī May 2022, created in Max/MSP.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NmFEE5SzCkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Premiered at Sounds of Te Kōkī May 2022, created in Max/MSP, filmed by SOUNZ.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AUEmZUNjIkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Uncommon Orbit
 Uncommon Orbit is an interactive audio-visual composition that combines Brian Eno-style ambient "tape" loops and glitch-type asthetics, working with musical structures like flowing vs rhythmic/pulsed and continuious vs random. Built with p5.js.
