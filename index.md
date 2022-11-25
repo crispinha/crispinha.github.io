@@ -19,9 +19,9 @@ Click to begin, hold mouse button to change modes, mouse position changes parame
 
 This synthesizer/sequencer features a FM synthesizer with changable paramenters, and an arpeggiator with changable tuning system between X-tone equal temperaments. Built with p5.js.
 
-Click to begin.
+Click to open.
 
-<iframe width="700" height="746" src="https://editor.p5js.org/crispinha/full/j_tnLr-Co"></iframe>
+[![Screenshot of synthesizer](https://github.com/crispinha/crispinha.github.io/raw/main/imgs/Variable%20TET%20synthesizer.png)](https://editor.p5js.org/crispinha/full/j_tnLr-Co)
 
 ## "Wonderful Granular Synth Thing"
 
