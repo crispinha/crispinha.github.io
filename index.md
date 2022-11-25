@@ -14,3 +14,19 @@ Uncommon Orbit is an interactive audio-visual composition that combines Brian En
 Click to begin, hold mouse button to change modes, mouse position changes parameters.
 
 <iframe width="600" height="642" src="https://editor.p5js.org/crispinha/full/S9HbZo_mW"></iframe>
+
+## Changable tuning FM synthesizer
+
+This synthesizer/sequencer features a FM synthesizer with changable paramenters, and an arpeggiator with changable tuning system between X-tone equal temperaments. Built with p5.js.
+
+Click to begin.
+
+<iframe width="700" height="742" src="https://editor.p5js.org/crispinha/full/j_tnLr-Co"></iframe>
+
+## "Wonderful Granular Synth Thing"
+
+A granular looper/synthesizer that records a phrase played by the user and loops that phrase or granulates it with adjustable parameters. Built with p5.js, uses the [granular-js library by Philipp Fromme](https://github.com/philippfromme/granular-js) (MIT license), prepared pinao sample recorded by me.
+
+Click to begin, use keyboard to play sample (octaves 'Z'-',' 'Q'-'I', piano layout).
+
+<iframe width="600" height="642" src="https://editor.p5js.org/crispinha/full/G26zfQamz"></iframe>
