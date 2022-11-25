@@ -21,7 +21,7 @@ This synthesizer/sequencer features a FM synthesizer with changable paramenters,
 
 Click to begin.
 
-<iframe width="700" height="742" src="https://editor.p5js.org/crispinha/full/j_tnLr-Co"></iframe>
+<iframe width="700" height="746" src="https://editor.p5js.org/crispinha/full/j_tnLr-Co"></iframe>
 
 ## "Wonderful Granular Synth Thing"
 
