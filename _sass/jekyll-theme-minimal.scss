@@ -10,6 +10,11 @@ body {
   font-weight:400;
 }
 
+#toc {
+  text-align: left;
+  list-style: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -41,8 +46,8 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color:#0E3E80;
+  // font-weight: bold;
 }
 
 a small {

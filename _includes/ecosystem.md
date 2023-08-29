@@ -5,3 +5,6 @@ The entites are controlled by the Boids algorithm, and ECOSYSTEM was an opportun
 
 Premiered at Sounds of Te Kōkī May 2022, created in Max/MSP, filmed by SOUNZ.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AUEmZUNjIkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% capture titles %}{{ titles | append: "ECOSYSTEM|" }}{% endcapture %}
+{% capture ids %}{{ ids | append: "ecosystem|" }}{% endcapture %}

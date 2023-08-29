@@ -1,0 +1,8 @@
+{% assign titles = titles | split: "|" %}
+{% assign ids = ids | split: "|" %}
+
+{% contentfor toc %}
+{% for t in titles %}
+<li><a href="#{{ids[forloop.index0]}}">{{t}}</a></li>
+{% endfor %}
+{% endcontentfor %}
