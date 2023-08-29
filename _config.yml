@@ -1,12 +1,12 @@
-title: Crispin Hitchings-Anstice
-remote_theme: pages-themes/minimal@v0.2.0
+title: Crispin Hitchings‑Anstice
+# remote_theme: crispinha/my-jekyll-minimal
 show_downloads: false
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "crispinha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed

@@ -1,0 +1,1 @@
+This is my portfolio site. It uses Github Pages, Jekyll, and the [Minimal theme](https://github.com/pages-themes/minimal) (released under CC0/public domain, vendored into this repo.) 
