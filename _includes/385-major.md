@@ -9,4 +9,4 @@ This was built using p5.js, and features audio recording and processing (in part
 
 Click screenshot to open, [source code on Github](https://github.com/crispinha/cmpo-major-project).
 
-[![Screenshot of synthesiser]({{site.url}}/imgs/385-final.png)](https://editor.p5js.org/crispinha/full/kaFg2uICc)
+[![Screenshot of synthesiser](imgs/385-final.png)](https://editor.p5js.org/crispinha/full/kaFg2uICc)

@@ -14,10 +14,10 @@ This synthesiser/sequencer features a FM synthesiser with changeable parameters,
 
 Click to open.
 
-[![Screenshot of synthesiser](https://github.com/crispinha/crispinha.github.io/raw/main/imgs/Variable%20TET%20synthesizer.png)](https://editor.p5js.org/crispinha/full/j_tnLr-Co)
+[![Screenshot of synthesiser](imgs/Variable%20TET%20synthesizer.png)](https://editor.p5js.org/crispinha/full/j_tnLr-Co)
 
-{% capture titles %}{{ titles | append: "Changable tuning FM synthesizer|" }}{% endcapture %}
-{% capture ids %}{{ ids | append: "changable-tuning-fm-synthesizer|" }}{% endcapture %}
+{% capture titles %}{{ titles | append: "Changeable tuning FM synthesizer|" }}{% endcapture %}
+{% capture ids %}{{ ids | append: "changeable-tuning-fm-synthesizer|" }}{% endcapture %}
 
 ## “Wonderful Granular Synth Thing”
 
