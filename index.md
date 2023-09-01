@@ -3,10 +3,14 @@ I’m interested in using technological methods to create and facilitate artisti
 {% assign titles = "" %}
 {% assign ids = "" %}
 
+{% include 385-major.md %}
+
+{% include seers-gate.md %}
+
+{% include film-scores.md %}
+
+{% include audio-plugins.md %}
+
 {% include ecosystem.md %}
-
-{% include 385-minor.md %}
-
-{% include 2021-compo.md %}
 
 {% include toc.html %}
