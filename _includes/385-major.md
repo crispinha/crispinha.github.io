@@ -7,6 +7,6 @@ This is a live performance tool for looping and processing sampled and live-reco
 
 This was built using p5.js, and features audio recording and processing (in part using the [granular-js library](https://github.com/philippfromme/granular-js)) and a heretical UI system that allows for signal chains to be added and removed.
 
-Click screenshot to open, [source code on Github](https://github.com/crispinha/cmpo-major-project).
+Click screenshot to open, [source code on GitHub](https://github.com/crispinha/cmpo-major-project).
 
 [![Screenshot of synthesiser](imgs/385-final.png)](https://editor.p5js.org/crispinha/full/kaFg2uICc)
