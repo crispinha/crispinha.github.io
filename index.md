@@ -9,6 +9,8 @@ I’m interested in using technological methods to create and facilitate artisti
 
 {% include film-scores.md %}
 
+{% include 313-proto.md %}
+
 {% include audio-plugins.md %}
 
 {% include ecosystem.md %}
