@@ -1,6 +1,12 @@
 {% assign titles = "" %}
 {% assign ids = "" %}
 
+{% include lakes-over-clouds.md %}
+
+{% include vcv-plugins.md %}
+
+{% include 310-desc.md %}
+
 {% include film-scores.md %}
 
 {% include audio-plugins.md %}

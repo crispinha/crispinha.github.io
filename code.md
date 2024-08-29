@@ -1,6 +1,10 @@
 {% assign titles = "" %}
 {% assign ids = "" %}
 
+{% include vcv-plugins.md %}
+
+{% include infinite-driver.md %}
+
 {% include seers-gate.md %}
 
 {% include 313-proto.md %}

@@ -3,6 +3,16 @@ This lists all portfolio items in reverse chronological order, see links in the 
 {% assign titles = "" %}
 {% assign ids = "" %}
 
+{% include vcv-plugins.md %}
+
+{% include lakes-over-clouds.md %}
+
+{% include 310-desc.md %}
+
+{% include infinite-driver.md %}
+
+{% include houdini.md %}
+
 {% include film-scores.md %}
 
 {% include audio-plugins.md %}
