@@ -3,6 +3,10 @@ This lists all portfolio items in reverse chronological order, see links in the 
 {% assign titles = "" %}
 {% assign ids = "" %}
 
+{% include interference-patterns.md %}
+
+{% include modal-synth.md %}
+
 {% include vcv-plugins.md %}
 
 {% include lakes-over-clouds.md %}

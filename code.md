@@ -1,6 +1,8 @@
 {% assign titles = "" %}
 {% assign ids = "" %}
 
+{% include modal-synth.md %}
+
 {% include vcv-plugins.md %}
 
 {% include infinite-driver.md %}

@@ -1,6 +1,10 @@
 {% assign titles = "" %}
 {% assign ids = "" %}
 
+{% include interference-patterns.md %}
+
+{% include modal-synth.md %}
+
 {% include lakes-over-clouds.md %}
 
 {% include vcv-plugins.md %}
