@@ -3,6 +3,8 @@
 {% capture titles %}{{ titles | append: "Modal Synthesiser|" }}{% endcapture %}
 {% capture ids %}{{ ids | append: "modal-synthesiser|" }}{% endcapture %}
 
+Update 6 Sep 2025: Downloads coming soon - hopefully by the end of Monday?
+
 As part of my Honours study I developed a synthesiser plugin using modal synthesis, a physical modelling technique using resonators tuned to a harmonic series. The design of the synthesiser draws from techniques used in the spectralism compositional movement. I developed the synthesiser using C++ and the the Juce framework as a VST/AU plugin.
 
 ![Modal synth UI](imgs/modal-synth-ui.png)

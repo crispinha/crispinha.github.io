@@ -3,9 +3,9 @@ My work is in developing technologies to create and facilitate artistic works. M
 {% assign titles = "" %}
 {% assign ids = "" %}
 
-{% include interference-patterns.md %}
-
 {% include modal-synth.md %}
+
+{% include interference-patterns.md %}
 
 {% include lakes-over-clouds.md %}
 
