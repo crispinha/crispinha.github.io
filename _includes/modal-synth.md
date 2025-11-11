@@ -7,6 +7,8 @@
 
 As part of my Honours study I developed a synthesiser plugin using modal synthesis, a physical modelling technique using resonators tuned to a harmonic series. The design of the synthesiser draws from techniques used in the spectralism compositional movement. I developed the synthesiser using C++ and the the Juce framework as a VST/AU plugin.
 
+I presented this synth at the [Composers Association of New Zealand Conference 2025](https://www.facebook.com/events/1826844347901609).
+
 ![Modal synth UI](imgs/modal-synth-ui.png)
 
 To test and demonstrate the synthesiser I have composed three études that demonstrate its features and use it in a full music production environment.
