@@ -7,9 +7,9 @@ My work is in developing technologies to create and facilitate artistic works. M
 
 {% include interference-patterns.md %}
 
-{% include lakes-over-clouds.md %}
-
 {% include infinite-driver.md %}
+
+{% include lakes-over-clouds.md %}
 
 {% include 385-major.md %}
 
